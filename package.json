@@ -1,0 +1,24 @@
+{
+  "name": "amazon-clone-js",
+  "version": "1.0.0",
+  "description": "\"amazon clone built using vanilla js and tailwind css",
+  "main": "index.js",
+  "scripts": {
+    "build-css":"npx tailwindcss -i ./src/style.css -o ./public/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajs-codes/Amazon-Clone-Js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajs-codes/Amazon-Clone-Js/issues"
+  },
+  "homepage": "https://github.com/ajs-codes/Amazon-Clone-Js#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.3.11",
+    "tailwindcss": "^2.2.19"
+  }
+}
