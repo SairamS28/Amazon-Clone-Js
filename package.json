@@ -4,7 +4,7 @@
   "description": "\"amazon clone built using vanilla js and tailwind css",
   "main": "index.js",
   "scripts": {
-    "build-css":"npx tailwindcss -i ./src/style.css -o ./public/style.css"
+    "build-css": "npx tailwindcss -i ./src/style.css -o ./public/style.css"
   },
   "repository": {
     "type": "git",
